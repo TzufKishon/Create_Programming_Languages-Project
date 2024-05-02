@@ -69,9 +69,3 @@ The interpreter follows a straightforward syntax for expressions, variable assig
 
 This project is released under the MIT License, allowing for flexibility and reuse with appropriate credit.
 
-## Acknowledgements
-
-This interpreter project is inspired by classical compiler design principles and is greatly influenced by resources and tutorials on modern interpreting techniques. Thanks to numerous open-source projects and community forums for providing insights and foundational concepts in language design and interpretation.
-
----
-

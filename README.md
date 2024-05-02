@@ -75,4 +75,3 @@ This interpreter project is inspired by classical compiler design principles and
 
 ---
 
-For any issues or contributions, please visit the repository's issues section or submit a pull request. Enjoy experimenting with the Simple Python Interpreter!

@@ -64,8 +64,3 @@ The interpreter follows a straightforward syntax for expressions, variable assig
 - **Statements** include assignments, print statements, and control structures.
 - **Control Structures** like `if` and `while` manage the flow of execution based on conditions.
 - **Variables** can be declared and used throughout the program using the `let` keyword.
-
-## License
-
-This project is released under the MIT License, allowing for flexibility and reuse with appropriate credit.
-
